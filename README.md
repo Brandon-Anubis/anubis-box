@@ -1,4 +1,4 @@
-# Hamsket <!-- omit in toc -->
+# Ankh Studio Hub <!-- omit in toc -->
 
 <p align="center">
 <a href="https://github.com/TheGoddessInari/hamsket"><img src="./resources/Icon.png" width="256px" alt="Hamsket"></a>
